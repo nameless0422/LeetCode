@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nameless0422/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/nameless0422/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/nameless0422/LeetCode/tree/master/1280-students-and-examinations) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nameless0422/LeetCode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nameless0422/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nameless0422/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nameless0422/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
